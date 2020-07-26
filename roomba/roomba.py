@@ -46,7 +46,7 @@ def fuckbut():
         sys.exit()
     else:
         return True
-    
+
 # Function to head left
 def lefton(maxrt):
     time.sleep(500 / 1000)
@@ -93,19 +93,19 @@ def collision():
     # STOP all motors
     gpio.output(lfor, gpio.LOW)
     gpio.output(rfor, gpio.LOW)
-    # Ran into something - Mykul is in pain and suffering
+    # Ran into something - Mykul is in pain and suffering just like me
     print('ah fuck i ran into something')
     owwie()
-    # Back up from the 
+    # Back up from the
     print('gotta back dat ass up')
     backwards(datetime.timedelta(seconds=0.5))
     print('hold on, turning')
     actionList = ['lefton(datetime.timedelta(seconds=0.2))', 'righton(datetime.timedelta(seconds=0.2))']
     random.choice(actionList)
-    
+
 # Function to play audio when Mykul bumps into something
 def owwie():
-    owList = ['ow1.mp3','ow2.mp3','ow3.mp3','ow4.mp3','ow5.mp3','ow6.mp3','ow7.mp3']
+    owList = ['./audio/ow1.mp3','./audio/ow2.mp3','./audio/ow3.mp3','./audio/ow4.mp3','./audio/ow5.mp3','./audio/ow6.mp3','./audio/ow7.mp3','./audio/ow8.mp3']
     playsound(random.choice(owList))
     time.sleep(1)
 
@@ -117,6 +117,6 @@ def main():
         forwards()
         if collisionbut.is_pressed:
             collision()
-            
+
 if __name__ == "__main__":
     main()
