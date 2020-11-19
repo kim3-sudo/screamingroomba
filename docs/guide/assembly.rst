@@ -136,6 +136,8 @@ Instructions:
 
 4. Wiggle and lift each motor assembly straight out. Remove both the left and right wheel assembly. As you remove each, mark whether it belonged to the left- or right-side of the robot.
 
+If you can't figure out how to get the motors out, try harder. Your Roomba might be slightly different, depending on the model and year. I'm not going to help you if you're a crackhead and addicted to crystal meth and have brain damage, tho. 
+
 Step 3. Wire the Motor Driver to the Motors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
