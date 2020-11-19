@@ -21,7 +21,7 @@ The inspiration for this project is the venerable Michael Reeves and his screami
 
 .. toctree::
   :maxdepth: 1
-  :cpation: Operation
+  :caption: Operation
   
   operation/testing
   operation/checklist
