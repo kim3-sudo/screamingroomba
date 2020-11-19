@@ -1,7 +1,7 @@
 Software Installation Manual
 ----------------------------
 
-Preparing the Raspberry Pi OS
+Preparing the Raspberry Pi Software
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 *This section is still being written. Contribute?*
