@@ -3,6 +3,8 @@ Standard Operation Checklist
 
 ☐ Check the Roomba for physical defects: check the +14-18vDC battery for signs of wear or swelling. Do not proceed if the battery is in a compromised state.
 
+☐ Check the Roomba for electrical issues: check the +14-18vDC battery voltage. It should read less than 18.2v. Do not proceed if the battery is excessively drained or overcharged.
+
 ☐ Check the Roomba for physical defects: ensure both wheels spin freely (or as freely as possible with the gear ratio) and that they move up and down sufficiently easily. Hall effect sensors are not configured to provide feedback (physical or logical). Do not proceed if the wheels do not spring freely.
 
 ☐ Check the Roomba for physical defects: ensure the bumper at the front moves freely. It should not bind when pressed and should spring back freely after being pressed from any angle. Do not proceed if the bumper and casing is not in good physical shape.
