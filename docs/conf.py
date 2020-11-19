@@ -22,7 +22,7 @@ copyright = '2020, Sejin Kim'
 author = 'Sejin Kim'
 
 # The full version, including alpha/beta/rc tags
-release = '2020'
+release = 'alpha 0.2020.2.2'
 
 
 # -- General configuration ---------------------------------------------------
