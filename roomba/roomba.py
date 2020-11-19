@@ -40,7 +40,7 @@ gpio.setup(rbak, gpio.OUT)
 # initialize and logic for fuck button
 def fuckbut():
     if fuck.is_pressed:
-        print('fuck button triggered. halting execution')
+        print('button triggered. halting execution')
         gpio.cleanup()
         return False
         sys.exit()
@@ -97,7 +97,7 @@ def collision():
     print('ah fuck i ran into something')
     owwie()
     # Back up from the
-    print('gotta back dat ass up')
+    print('gotta back up')
     backwards(datetime.timedelta(seconds=0.5))
     print('hold on, turning')
     actionList = ['lefton(datetime.timedelta(seconds=0.2))', 'righton(datetime.timedelta(seconds=0.2))']
