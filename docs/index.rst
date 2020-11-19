@@ -25,3 +25,4 @@ The inspiration for this project is the venerable Michael Reeves and his screami
   
   operation/testing
   operation/checklist
+  operation/help
