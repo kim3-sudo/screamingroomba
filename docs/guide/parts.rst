@@ -22,8 +22,6 @@ Bill of Materials
 +-----------------------------------------------------+----------+------------+-------------+------------------------------------------------------------------------------------------------------+
 | Lever Nuts Wire Connection Pack (28pc)              | 1        | ~$18.95    | $18.95      | `here <https://www.amazon.com/Wago-Lever-Nut-Assortment-Pocket-Pack/dp/B01N0LRTXZ>`_                 |
 +-----------------------------------------------------+----------+------------+-------------+------------------------------------------------------------------------------------------------------+
-| Limit Switch (Momentary, Hinge) (10pc)              | 1        | ~$6.99     | $6.99       | `here <https://www.amazon.com/URBESTAC-Momentary-Hinge-Roller-Switches/dp/B00MFRMFS6>`_              |
-+-----------------------------------------------------+----------+------------+-------------+------------------------------------------------------------------------------------------------------+
 | JBL CLIP 3 Portable Speaker                         | 1        | ~$39.95    | $39.95      | `here <https://www.amazon.com/JBL-Waterproof-Portable-Bluetooth-Speaker/dp/B07Q6ZWMLR>`_             |
 +-----------------------------------------------------+----------+------------+-------------+------------------------------------------------------------------------------------------------------+
 | Small USB Battery Bank (5vDC over USB)              | 1        | ~$19.99    | $19.99      | `here <https://www.amazon.com/Anker-PowerCore-Lipstick-Sized-Compatible-Smartphones/dp/B005X1Y7I2>`_ |
@@ -38,3 +36,5 @@ The BOM is provided for your convenience. Please note that parts availability va
 You need three separate battery packs: 1x5vDC, 1x14-18vDC, and one integrated into your speaker. If your battery pack is 18vDC, then you can use it, but you can also get a 18vDC LiPO battery and charger. The 18vDC battery is only used to drive the motors. The 5vDC battery pack should only be used to power the Raspberry Pi. You should get a small enough battery pack so it fits in the casing easily. Large banks are difficult to work with in the confined space of a Roomba.
 
 During testing, consider using a bench power supply set to the target voltage of your battery pack, that way, you don't have to continuously charge the battery pack. Pick up another pack of XT90 leads and some primary wire.
+
+*Note: Older versions of this documentation indicated that you should also get limit switches. Newer revisions have changed to using the Roomba's built-in sensor array.*

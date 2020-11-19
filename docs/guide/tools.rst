@@ -26,3 +26,6 @@ Optional
 
 - Digital multimeter or voltmeter (you only need the voltmeter for most measurments)
 - Benchtop power supply (variable voltage, up to 18v)
+- Power drill
+- Zip-ties
+- Cleaning wipes (like Clorox or Lysol)
