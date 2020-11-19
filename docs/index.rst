@@ -14,6 +14,7 @@ The inspiration for this project is the venerable Michael Reeves and his screami
   :maxdepth: 1
   :caption: Build Guide
 
+  guide/parts
   guide/tools
   guide/assembly
   guide/software_installation
