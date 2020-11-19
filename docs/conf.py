@@ -17,9 +17,9 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Stanford Pupper'
-copyright = '2020, Nathan Kau, Abi Lopez'
-author = 'Nathan Kau, Abi Lopez'
+project = 'Screaming Roomba'
+copyright = '2020, Sejin Kim'
+author = 'Sejin Kim'
 
 # The full version, including alpha/beta/rc tags
 release = '2020'
