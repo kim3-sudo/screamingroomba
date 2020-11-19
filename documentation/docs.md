@@ -30,3 +30,55 @@ You need three separate battery packs: 1x5vDC, 1x14-18vDC, and one integrated in
 | Small USB Battery Bank (5vDC over USB)              | 1        | ~$19.99    | $19.99      | [here](https://www.amazon.com/Anker-PowerCore-Lipstick-Sized-Compatible-Smartphones/dp/B005X1Y7I2) |
 
 During testing, consider using a bench power supply set to the target voltage of your battery pack, that way, you don't have to continuously charge the battery pack. Pick up another pack of XT90 leads and some primary wire.
+
+## Tools Required
+
+### Required
+
+- Scissors
+- Precision screwdriver kit (we recommend [iFixit's Pro Tech Toolkit](https://www.ifixit.com/Store/Tools/Pro-Tech-Toolkit/IF145-307))
+- Wire strippers
+- Side cutters
+- Your own private network (use a regular wireless router)
+
+### Optional
+
+- Digital multimeter or voltmeter (you only need the voltmeter for most measurments)
+- Benchtop power supply (variable voltage, up to 18v)
+- 
+
+## Assembly
+
+*These instructions are being written before actual assembly, and it's likely to change after the build is complete.*
+
+### Preparing the Raspberry Pi's OS
+
+Using a 5vDC USB power source, power your Raspberry Pi up. You probably have one of these for your phone.
+
+### Wiring the Raspberry Pi
+
+*Instructions will be added later.*
+
+### Wiring the Motor Driver
+
+*Instructions will be added later.*
+
+### Installing Components into the Roomba
+
+*Instructions will be added later.*
+
+### Connecting to the Device
+
+*Instructions will be added later.*
+
+### Loading the Software
+
+*Instructions will be added later.*
+
+### Testing
+
+*Instructions will be added later.*
+
+### Standard Operation Checklist
+
+
