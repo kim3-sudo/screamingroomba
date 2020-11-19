@@ -130,8 +130,10 @@ Instructions:
 1. Flip your Roomba over so the wheels are point up.
 2. If still present, remove the brush assemblies and dustpan.
 3. As shown in the graphic below, remove these three screws. This will loosen the wheel assembly.
+
 .. image:: RoombaWheels.png
   :width: 600
+
 4. Wiggle and lift each motor assembly straight out. Remove both the left and right wheel assembly. As you remove each, mark whether it belonged to the left- or right-side of the robot.
 
 Step 3. Wire the Motor Driver to the Motors
