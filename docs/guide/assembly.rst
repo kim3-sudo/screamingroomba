@@ -182,6 +182,10 @@ Instructions:
 3. Remove the top lid to the dustpan and either cleanly remove it or just snap it off - we no longer need it, and it's taking up valuable space that we need to route wiring.
 4. Using a small amount of industrial-strength Velcro (if possible, avoid using the chicken-shit consumer-grade stuff, the adhesive fails too easily when heated), attach the 5vDC USB battery bank to the bottom of the dustpan. Align the bank so that the output port faces towards the front of the robot.
 5. Depending on the shape of your battery bank, you might be able to attach the motor driver battery pack to the top of the USB battery bank. If your USB power bank is round, then you'll probably need to mount your motor driver battery pack next to the USB power bank. Using some industrial-strength Velcro, attach the battery pack to the dustpan. Align the battery pack so that the pigtail faces the front of the robot.
+6. Prepare the rest of the underside of the robot by removing the four screws holding the bottom protective plate on. All four screws are captive.
+7. Remove the single screw holding the sweeper brush in, then pull the brush straight up and out. The brush is friction-mounted with a screw, so you might need to pull kind of hard.
+8. Pull the entire bottom protective plate out.
+7. Remove the brush assembly by removing the four screws holding it into place, then slide it straight up. You may need to wiggle it slightly. All screws holding the brush assembly are captive.
 
 Optionally, you can drill two holes beside each battery pack, then use a zip-tie to cinch it down and secure it better to the dustpan. Be careful to not overtighten the zip-ties, especially on the motor driver's battery pack. Be careful when cutting the zip-ties to not puncture any of the battery packs.
 
@@ -195,12 +199,12 @@ This is perhaps one of the most involved substeps. This will take a large chunk 
 Instructions:
 
 1. The dustpan and brush assemblies should both already be removed.
-2. Remove the old battery pack by lifting it out using the two plastic tabs and disconnecting the pigtail.
-3. On the bottom of the robot, around the bumper, there are 10-12 screws (depending on your model) on the bottom of the front bumper plate. Unscrew all of them, then remove the arc-shaped bumper by wiggling it straight out.
-4. The bumper plate will get snagged on a set of wires, which provide the basic lidar sensing capabilities. We will not use them, so if you want, you can just cut these wires. Alternatively, you can unscrew the two screws holding the sensor from the front of the bumper to remove it. You can then remove the bumper's outer surface from the entire robot.
-5. Turn the Roomba so it's facing up again. Using a screwdriver or iFixit Jimmy, lift up the silver or gray decorative cover. This plate is held in with plastic clips all around.
+2. Remove the old battery pack by lifting it out using the two plastic tabs and disconnecting the pigtail, if your robot used a pigtail connector. Some models, like the 560, have a pogo connector instead.
+3. On the bottom of the robot, around the bumper, there are 10-12 screws (depending on your model) on the bottom of the front bumper plate. Unscrew all of them, then remove the arc-shaped bumper by wiggling it straight out. These screws are not designed to be captive, so remove the entire way.
+4. The bumper plate will get snagged on a set of wires, which provide the basic lighthouse sensing capabilities. We will not use them, so if you want, you can just cut these wires. Alternatively, you can unscrew the two screws holding the sensor from the front of the bumper to remove it. You can then remove the bumper's outer surface from the entire robot.
+5. Turn the Roomba so it's facing up again. Using a screwdriver, iFixit Jimmy, or just your fingers, lift up the silver or gray decorative cover. This plate is held in with plastic clips all around. You might need to pull quite hard to release all of the clips.
 6. When all of the clips have been freed, lift the silver/gray plate up and off of the robot. You might need to wiggle it off of the handle.
-7. Now that the top cover has been removed, you should see 11 screws, one of which has a smaller head. Be careful to not confuse this screw with the other ten. Remove all of these screws.
+7. Now that the top cover has been removed, you should see 11 screws, one of which has a smaller head (probably at the bottom of the control panel). Be careful to not confuse this screw with the other ten.  Remove all of these screws. There are also two screws next to each end of the handle - you don't need to remove these.
 8. Using your thumbs, press down on the center control panel, then use your other fingers to pull straight up on the outer casing. Depending on your Roomba, it might be easy or difficult to remove.
 9. Lift off the silver decorative ring around the control panel, followed by the button cover itself.
 10. You should now see four additional screws on the actuator plate. Unscrew these, then remove the actuator plate.
@@ -208,7 +212,7 @@ Instructions:
 12. At the rear of the board, disconnect the four connectors. They are all keyed differently.
 13. There are five screws that hold the main motherboard in. Remove each of these.
 14. Pull the motherboard up and out of the Roomba. It won't come all the way out, but this is okay. Don't force the motherboard al the way out, since there are cables. However, the cables should be long enough that you can get the motherboard well enough out to work on it.
-15. Disconnect all of the five connectors holding the motherboard in. Our main focus will be on connector 2.
+15. Disconnect all of the five connectors holding the motherboard in. Our main focus will be on connector 2 (J12), highlighted in the image below, so you might want to mark this connector by drawing an arrow or circle on the motherboard PCB.
 
 Step 3. Separating the Bumper Sensor Array
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

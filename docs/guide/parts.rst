@@ -10,7 +10,7 @@ Bill of Materials
 +-----------------------------------------------------+----------+------------+-------------+------------------------------------------------------------------------------------------------------+
 | Jumper Wire Kit having (M-F, M-M, and F-F is handy) | 1        | ~$5.00     | $5.00       | `here <https://www.amazon.com/EDGELEC-Breadboard-Optional-Assorted-Multicolored/dp/B07GD2BWPY>`_     |
 +-----------------------------------------------------+----------+------------+-------------+------------------------------------------------------------------------------------------------------+
-| Generic Roomba                                      | 1        | ~$30.00    | $30.00      | `here <https://www.ebay.com/itm/IRobot-Roomba-w-Charger/264939929657>`_                              |
+| iRobot Roomba 560                                   | 1        | ~$30.00    | $30.00      | `here <https://www.ebay.com/itm/IRobot-Roomba-w-Charger/264939929657>`_                              |
 +-----------------------------------------------------+----------+------------+-------------+------------------------------------------------------------------------------------------------------+
 | 32GB microSDHC Memory Card                          | 1        | ~$7.49     | $7.49       | `here <https://www.amazon.com/Samsung-MicroSDHC-Adapter-MB-ME32GA-AM/dp/B06XWN9Q99>`_                |
 +-----------------------------------------------------+----------+------------+-------------+------------------------------------------------------------------------------------------------------+
@@ -36,5 +36,7 @@ The BOM is provided for your convenience. Please note that parts availability va
 You need three separate battery packs: 1x5vDC, 1x14-18vDC, and one integrated into your speaker. If your battery pack is 18vDC, then you can use it, but you can also get a 18vDC LiPO battery and charger. The 18vDC battery is only used to drive the motors. The 5vDC battery pack should only be used to power the Raspberry Pi. You should get a small enough battery pack so it fits in the casing easily. Large banks are difficult to work with in the confined space of a Roomba.
 
 During testing, consider using a bench power supply set to the target voltage of your battery pack, that way, you don't have to continuously charge the battery pack. Pick up another pack of XT90 leads and some primary wire.
+
+This documentation is written for the iRobot Roomba 560 model, but these instructions should be adaptable to other robot platforms as well, especially those from the same generation from iRobot.
 
 *Note: Older versions of this documentation indicated that you should also get limit switches. Newer revisions have changed to using the Roomba's built-in sensor array.*
