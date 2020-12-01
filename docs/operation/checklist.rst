@@ -1,5 +1,5 @@
 Standard Operation Checklist
-----------------------------
+****************************
 
 ☐ Check the Roomba for physical defects: check the +14-18vDC battery for signs of wear or swelling. Do not proceed if the battery is in a compromised state.
 

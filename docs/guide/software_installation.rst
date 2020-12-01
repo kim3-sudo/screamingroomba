@@ -1,5 +1,5 @@
 Software Installation Manual
-----------------------------
+****************************
 
 Preparing the Raspberry Pi Software
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

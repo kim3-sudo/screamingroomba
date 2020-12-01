@@ -1,5 +1,5 @@
 Assembly Guide
-==============
+**************
 
 .. contents:: :depth: 2
 
